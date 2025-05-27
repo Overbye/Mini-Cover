@@ -1,6 +1,6 @@
 <template>
   <footer class="sm:mt-12 mb-2 text-center text-xs sm:text-sm">
-    <div class="flex flex-wrap justify-center gap-x-2 gap-y-1">
+    <!-- <div class="flex flex-wrap justify-center gap-x-2 gap-y-1">
       <span>富强</span>
       <span>民主</span>
       <span>文明</span>
@@ -13,12 +13,12 @@
       <span>敬业</span>
       <span>诚信</span>
       <span>友善</span>
-    </div>
+    </div> -->
     <div class="mt-2 space-x-2">
-      <span>© 2024</span>
-      <a href="https://bsgun.cn" 
+      <span>© 2025</span>
+      <a href="https://shuziyoumin.vip" 
          target="_blank"
-         class="font-bold text-green-600 hover:text-gray-600 transition-colors">梦爱吃鱼</a>
+         class="font-bold text-green-600 hover:text-gray-600 transition-colors">数字游民</a>
       <a v-if="icpNumber" 
          href="https://beian.miit.gov.cn/" 
          target="_blank"
